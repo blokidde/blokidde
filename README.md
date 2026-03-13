@@ -71,6 +71,9 @@ A real-time demo runs on **embedded hardware (ESP32-P4)** with camera input and 
 - C / C++  
 - ESP-IDF
 
+**Repository**
+[animal recognition](https://github.com/blokidde/animal-recognition)
+
 ### Financial Report Simplifier
 
 Web application that simplifies complex financial reports using both **local and cloud-based large language models**.
@@ -85,6 +88,8 @@ The system processes documents (PDF, DOCX, TXT), extracts relevant content, and 
 - Document Parsing (PDF / DOCX / TXT)
 
 **Repository**
+[Financial Simplifier](https://github.com/blokidde/Financial_Simplifier)
+
 
 ---
 
@@ -110,5 +115,9 @@ The system uses **Bluetooth signal strength, compass direction and graph-based r
 - Neo4j  
 - Bluetooth Low Energy (BLE)  
 - Text-to-Speech (TTS)
+
+**Repository**
+
+[Stephear App](https://github.com/blokidde/Stephear-app)
 
 ---
