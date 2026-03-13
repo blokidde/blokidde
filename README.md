@@ -7,7 +7,50 @@ Currently working on:
 - Computer vision pipelines
 - Embedded systems
 - backend systems
+## Skills
 
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+
+### AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00)
+
+### Backend / APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000)
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+### Databases
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
+
+### Edge / Embedded Systems
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-000000)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+
+### DevOps / Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ## Projects
 
 ### Edge AI Computer Vision Pipeline
