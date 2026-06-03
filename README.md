@@ -53,6 +53,27 @@ Currently working on:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ## Projects
 
+### Current Project: Dry-Age Controller
+
+Embedded controller project for a dry-aging cabinet, built with **ESP-IDF** and **C/C++**.
+
+The system focuses on controlling climate-related hardware, including an **atomizer output** and planned temperature/humidity measurements using an **SHT40 sensor over I2C**. The current firmware runs on ESP32 hardware and uses FreeRTOS timing to switch the atomizer output in controlled intervals.
+
+**Technologies**
+
+- C / C++  
+- ESP-IDF  
+- ESP32  
+- FreeRTOS  
+- GPIO  
+- I2C  
+- SHT40 temperature/humidity sensor
+
+**Repository**
+[dry-age](https://github.com/blokidde/dry-age)
+
+---
+
 ### Edge AI Computer Vision Pipeline
 
 End-to-end wildlife recognition pipeline covering the full machine learning workflow: dataset engineering, model training, evaluation, and edge deployment.
