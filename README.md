@@ -95,6 +95,43 @@ A real-time demo runs on **embedded hardware (ESP32-P4)** with camera input and 
 **Repository**
 [animal recognition](https://github.com/blokidde/animal-recognition)
 
+---
+
+### Fashion Segmentation and Classification
+
+Computer vision project that classifies study directions based on clothing features in camera images.
+
+The system uses a custom-trained **YOLO segmentation model** to detect clothing items, generate segmentation masks and extract visual features such as clothing classes, mask areas, bounding boxes and mask-based color information. These features are then used by a separate **study direction classifier** to predict one of four study directions.
+
+The project also includes tooling for dataset creation and review, where generated masks and classes can be checked and corrected before training the classifier. The final application runs as a live camera demo with a FastAPI backend and is designed with Raspberry Pi deployment in mind.
+
+**My contributions included**
+
+- Training and comparing multiple YOLO26 segmentation models  
+- Creating class remapping for the People Clothing dataset  
+- Building a dataset creation pipeline with generated masks and JSON annotations  
+- Adding a review interface for checking masks and correcting classes  
+- Training a study direction classifier using detection and mask color features  
+- Integrating the segmentation model and classifier into the live classification flow  
+- Optimizing inference settings for Raspberry Pi usage
+
+**Technologies**
+
+- Python  
+- PyTorch  
+- YOLO / Ultralytics  
+- OpenCV  
+- FastAPI  
+- Scikit-learn  
+- Computer Vision  
+- Raspberry Pi
+
+**Repository**
+
+[Fashion Segmentation and Classification](https://github.com/blokidde/Fashion-segmentation-and-classification)
+
+---
+
 ### Financial Report Simplifier
 
 Web application that simplifies complex financial reports using both **local and cloud-based large language models**.
@@ -110,7 +147,6 @@ The system processes documents (PDF, DOCX, TXT), extracts relevant content, and 
 
 **Repository**
 [Financial Simplifier](https://github.com/blokidde/Financial_Simplifier)
-
 
 ---
 
